@@ -1,0 +1,20 @@
+body{
+  
+}
+
+h1{
+  padding:5%;
+}
+
+.main{
+  padding-top:50px;
+  width:80%;
+  margin-left:10%;
+  
+}
+
+.details{
+  width:70%;
+  float:left;
+  font-size:1.4em;
+}
